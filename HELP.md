@@ -3,7 +3,6 @@
 ### Build jar
 mvn package
 
-### Extract jar file
 ### Extract jar file 'dependecy' folder
 ### https://spring.io/blog/2018/11/08/spring-boot-in-a-container
 
